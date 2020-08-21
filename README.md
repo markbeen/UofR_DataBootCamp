@@ -1,4 +1,4 @@
-# UofR_DataBootCamp
+# DataBootCamp
 ## VBA Homework (due Aug. 22, 2020):
 <ul>
   <li> screen shots showing stock performance for each year </li>
